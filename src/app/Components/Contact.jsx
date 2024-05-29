@@ -38,8 +38,11 @@ const Contact = () => {
         {contact.map((data,id)=>
         {
             return(
-                <Link href={data.link}>
-                <div className='flex flex-col  items-center' key={id}>
+              <>                
+              <div key={id}>
+              
+              <Link href={data.link} >
+                <div className='flex flex-col  items-center' >
                 <div className='text-3xl text-white rounded-full border p-8'>
                 {data.icons}
                 </div>
@@ -48,7 +51,9 @@ const Contact = () => {
                 </div>
                 </div>
                 </Link>
-            )
+                </div>
+                </>
+                )
         })}
        
         
