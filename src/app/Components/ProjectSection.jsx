@@ -21,7 +21,7 @@ const projectsdata = [
     // id:1,
     title: "Ecommerce",
     description: "Project 1 description",
-    image: "/ecomm1.PNG",
+    image: "/ecomm1.png",
     link: "https://www.linkedin.com/posts/saad-chohan_ecommerce-nextjs-sanity-activity-7197485431079239680-eged?utm_source=share&utm_medium=member_desktop",
   },
   {
