@@ -38,7 +38,7 @@ function Hero() {
               </button>
               <button className="">
                 <a
-                  href="/frontend.pdf"
+                  href="/SaadChohan.pdf"
                   download
                   className="px-6 py-3 w-full sm:w-fit rounded-full bg-transparent hover:bg-slate-800 mt-3 text-white border border-white inline-block text-center"
                 >
