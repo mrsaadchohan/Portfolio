@@ -54,7 +54,7 @@ const Hero = () => {
           Passionate about computer vision and developing innovative AI solutions. Committed to continuous learning and professional growth in the AI field.
           </p>
           <div className="mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6">
-            <a href="/images/SaadChohan.pdf" download>
+            <a href="/images/CV.pdf" download>
               <button className="px-[2rem] hover:bg-yellow-400 transition-all duration-300 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center">
                 <p>Download CV</p>
                 <ArrowDownTrayIcon className="w-[1.6rem] h-[1.7rem] text-black" />
