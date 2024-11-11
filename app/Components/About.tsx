@@ -50,12 +50,12 @@ export default function About() {
 
             </p>
           </div>
-          <a href="/images/CV.pdf" download>
+{/*           <a href="/images/CV.pdf" download>
             <button className="px-[2rem] hover:bg-yellow-400 transition-all duration-300 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center">
               <p>Download CV</p>
               <ArrowDownTrayIcon className="w-[1.6rem] h-[1.7rem] text-black" />
             </button>
-          </a>
+          </a> */}
         </motion.div>
         <motion.div
           ref={ref}
